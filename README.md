@@ -1,5 +1,5 @@
 # Microsoft Graph Bot Quickstart
-This repository holds a quickstart template for building a bot that connects to the Microsoft Graph. Please follow the steps below to use this project.
+This repository holds a quickstart template for building a bot that connects to the Microsoft Graph. For a slightly more complex quickstart solution that connects to the Microsoft Graph and leverages [LUIS](https://www.luis.ai/), see the repo [HERE](https://github.com/richdizz/microsoft-graph-bot-quickstart-luis). Please follow the steps below to use this project.
 
 **This is not designed for production. It exists primarily to get you started quickly with learning and prototyping bots that connect to the Microsoft Graph**
 
